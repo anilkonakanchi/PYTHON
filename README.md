@@ -27,3 +27,7 @@
 26,add two binary numbers.py
 27.area of water.py
 28. Normal calculator.py
+29. Parscal triangle.py
+30. Max min and m and n
+31. Mirror image.py
+32. Factorial.py
