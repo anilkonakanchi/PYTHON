@@ -24,3 +24,5 @@
 23.binary.py
 24.perfect square.py
 25.sum of squares.py
+26,add two binary numbers.py
+27.area of water
