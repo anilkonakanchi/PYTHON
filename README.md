@@ -23,3 +23,4 @@
 22.multiple.py
 23.binary.py
 24.perfect square.py
+25.sum of squares.py
