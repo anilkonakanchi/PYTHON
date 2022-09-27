@@ -20,3 +20,5 @@ trading.py.
 username.py
 valid.py
 vowels.py
+multiple.py
+binary.py
