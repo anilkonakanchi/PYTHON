@@ -25,4 +25,5 @@
 24.perfect square.py
 25.sum of squares.py
 26,add two binary numbers.py
-27.area of water
+27.area of water.py
+28. Normal calculator.py
