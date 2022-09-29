@@ -31,3 +31,11 @@
 30. Max min and m and n
 31. Mirror image.py
 32. Factorial.py
+33. simple interest
+34. sumsqyare
+35. palindrome
+36. skipping numbers
+37. leap year
+38. pattern 
+39. merge
+40. combinations
