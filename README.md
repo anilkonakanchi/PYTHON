@@ -47,3 +47,5 @@
 46. tirangle
 47. pos and neg numbers average
 48. matrix nested list
+49. maximum count
+
