@@ -39,3 +39,10 @@
 38. pattern 
 39. merge
 40. combinations
+41.max&min of m&n
+42. mirror image
+43. factorial
+44. parscal triangle
+45. upper case and lower case
+46. tirangle
+47. pos and neg numbers average
