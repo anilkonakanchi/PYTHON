@@ -56,4 +56,5 @@
 55. mean,mode,median(mmm)
 56. vowels and consonents(vc)
 57. reverse.number
+58. eligible for vote
 
