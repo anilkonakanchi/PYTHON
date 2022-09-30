@@ -48,4 +48,12 @@
 47. pos and neg numbers average
 48. matrix nested list
 49. maximum count
+50. ascending and descending
+51. vowels
+52. sq and cube
+53. student user
+54. reverse.string
+55. mean,mode,median(mmm)
+56. vowels and consonents(vc)
+57. reverse.number
 
