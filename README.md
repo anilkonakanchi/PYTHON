@@ -57,4 +57,10 @@
 56. vowels and consonents(vc)
 57. reverse.number
 58. eligible for vote
+59. perfect number
+60. lcm and gcd
+61. count prime and composite
+62. string match 
+63. vowels and consonents
+64. smaller and greater number
 
