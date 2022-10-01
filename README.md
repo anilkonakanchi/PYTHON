@@ -1,36 +1,36 @@
 # PYTHON
-1. a,s,m,d.py
-2. anagrams.py
-3. area of circle.py
-4. bakery.py
-5. buyer.py
-6. cal.py
-7. fact.py
-8. fact1.py
-9. fact2.py
-10. fibonacci series.py
-11. fibonacci series with recressin.py
-12. isomorphic.py
-13. loaves.py
-14. no of wys.py
-15. palindrome.py
-16. prime and composite.py
-17. strings.py
-18. trading.py.
-19. username.py
-20. valid.py
-21. vowels.py
-22. multiple.py
-23. binary.py
-24. perfect square.py
-25. sum of squares.py
-26. add two binary numbers.py
-27. area of water.py
-28. Normal calculator.py
-29. Parscal triangle.py
+1. a,s,m,d
+2. anagrams
+3. area of circle
+4. bakery
+5. buyer
+6. cal
+7. fact
+8. fact1
+9. fact2
+10. fibonacci series
+11. fibonacci series with recressin
+12. isomorphic
+13. loaves
+14. no of wys
+15. palindrome
+16. prime and composite
+17. strings
+18. trading
+19. usernames
+20. valid
+21. vowels
+22. multiple
+23. binary
+24. perfect square
+25. sum of squares
+26. add two binary numbers
+27. area of water
+28. Normal calculator
+29. Parscal triangle
 30. Max min and m and n
-31. Mirror image.py
-32. Factorial.py
+31. Mirror image
+32. Factorial
 33. simple interest
 34. sumsqyare
 35. palindrome
